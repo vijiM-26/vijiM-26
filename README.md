@@ -1,11 +1,12 @@
 ### 👋Hello! I'm Viji.
+- 🌱 I’m currently doing B.Tech IT at Thiagarajar College of Engineering.
+- 🔭I’m a final year student who likes to code and who is passionate about learning new technologies 
 <!--
 **vijiM-26/vijiM-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently doing B.Tech IT at Thiagarajar College of Engineering.
-- 🔭I’m a final year student who likes to code and who is passionate about learning new technologies 
+
 <!--
 
 - 👯 I’m looking to collaborate on ...
